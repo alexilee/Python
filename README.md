@@ -1,6 +1,7 @@
 # Python
 
-Here are a few examples of projects/code that I've done.
+Here are a few examples of projects/code that I've done. The first two examples were relatively informal project and don't include the use of functions.
+
 1. DistillingWeb
 * Scrapes a list of cities from a site ranking traffic. Uses nominatum API to return json geometry for each city scraped. Uses pandas and geopandas to plot the points on a map.
 2. RealEstatebyNeighborhood
